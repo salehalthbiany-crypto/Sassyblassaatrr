@@ -5,6 +5,7 @@ import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import android.net.Uri
+import android.database.Cursor
 import java.io.File
 import java.io.FileInputStream
 import java.io.FileOutputStream
